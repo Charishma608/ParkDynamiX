@@ -39,7 +39,7 @@ This project is specifically crafted to:
 ### Steps to Run the Project:
 1. **Clone the Repository:**
    ```sh
-   git clone https://github.com/Charishma608/Java-Parking-System.git
+   [git clone https://github.com/Charishma608/Java-Parking-System.git](https://github.com/Charishma608/ParkDynamiX.git)
 
 # 📬 Contact
 For any inquiries or feedback, please contact.
